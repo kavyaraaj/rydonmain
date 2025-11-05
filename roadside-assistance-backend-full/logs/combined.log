@@ -1,0 +1,252 @@
+{"cause":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":191048603,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"errorLabelSet":{},"level":"error","message":"connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":191048603,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"roadside-assistance","stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (C:\\Rydon\\roadside-assistance-backend-full\\roadside-assistance-backend-full\\node_modules\\mongoose\\lib\\connection.js:1165:11)\n    at NativeConnection.openUri (C:\\Rydon\\roadside-assistance-backend-full\\roadside-assistance-backend-full\\node_modules\\mongoose\\lib\\connection.js:1096:11)\n    at async connectDatabase (file:///C:/Rydon/roadside-assistance-backend-full/roadside-assistance-backend-full/src/config/database.js:10:5)\n    at async startServer (file:///C:/Rydon/roadside-assistance-backend-full/roadside-assistance-backend-full/src/server.js:94:5)","timestamp":"2025-10-21 20:54:40"}
+{"cause":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":191234371,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"errorLabelSet":{},"level":"error","message":"connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":191234371,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"roadside-assistance","stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (C:\\Rydon\\roadside-assistance-backend-full\\roadside-assistance-backend-full\\node_modules\\mongoose\\lib\\connection.js:1165:11)\n    at NativeConnection.openUri (C:\\Rydon\\roadside-assistance-backend-full\\roadside-assistance-backend-full\\node_modules\\mongoose\\lib\\connection.js:1096:11)\n    at async connectDatabase (file:///C:/Rydon/roadside-assistance-backend-full/roadside-assistance-backend-full/src/config/database.js:10:5)\n    at async startServer (file:///C:/Rydon/roadside-assistance-backend-full/roadside-assistance-backend-full/src/server.js:94:5)","timestamp":"2025-10-21 20:57:45"}
+{"cause":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":347281945,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"errorLabelSet":{},"level":"error","message":"connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":347281945,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"roadside-assistance","stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (C:\\Rydon\\roadside-assistance-backend-full\\roadside-assistance-backend-full\\node_modules\\mongoose\\lib\\connection.js:1165:11)\n    at NativeConnection.openUri (C:\\Rydon\\roadside-assistance-backend-full\\roadside-assistance-backend-full\\node_modules\\mongoose\\lib\\connection.js:1096:11)\n    at async connectDatabase (file:///C:/Rydon/roadside-assistance-backend-full/roadside-assistance-backend-full/src/config/database.js:10:5)\n    at async startServer (file:///C:/Rydon/roadside-assistance-backend-full/roadside-assistance-backend-full/src/server.js:94:5)","timestamp":"2025-10-23 16:18:25"}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.1234","level":"error","message":"MongoDB connection failed: querySrv ENOTFOUND _mongodb._tcp.1234","service":"roadside-assistance","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.1234\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","syscall":"querySrv","timestamp":"2025-10-24 11:13:41"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-24 11:18:53"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-24 11:18:53"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-24 11:18:53"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-24 11:18:53"}
+{"level":"info","message":"New user registered: testuser@example.com","service":"roadside-assistance","timestamp":"2025-10-24 11:32:57"}
+{"level":"info","message":"::1 - - [24/Oct/2025:06:02:57 +0000] \"POST /api/v1/auth/user/register HTTP/1.1\" 201 368 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-24 11:32:57"}
+{"level":"info","message":"::1 - - [24/Oct/2025:06:05:41 +0000] \"POST /api/v1/auth/user/login HTTP/1.1\" 401 31 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-24 11:35:41"}
+{"level":"info","message":"::1 - - [24/Oct/2025:06:06:31 +0000] \"POST /api/v1/auth/user/login HTTP/1.1\" 200 475 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-24 11:36:31"}
+{"level":"info","message":"New workshop registered: testworkshop@example.com","service":"roadside-assistance","timestamp":"2025-10-24 11:38:48"}
+{"level":"info","message":"::1 - - [24/Oct/2025:06:08:48 +0000] \"POST /api/v1/auth/workshop/register HTTP/1.1\" 201 543 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-24 11:38:48"}
+{"level":"info","message":"::1 - - [24/Oct/2025:06:10:08 +0000] \"POST /api/v1/auth/workshop/login HTTP/1.1\" 200 506 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-24 11:40:08"}
+{"level":"info","message":"::1 - - [24/Oct/2025:06:11:40 +0000] \"GET /api/v1/users/profile HTTP/1.1\" 200 370 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-24 11:41:40"}
+{"level":"info","message":"::1 - - [24/Oct/2025:06:14:06 +0000] \"PUT /api/v1/users/profile HTTP/1.1\" 200 487 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-24 11:44:06"}
+{"level":"warn","message":"MongoDB disconnected","service":"roadside-assistance","timestamp":"2025-10-24 11:46:48"}
+{"level":"info","message":"::1 - - [24/Oct/2025:06:24:23 +0000] \"GET /api/v1/users/profile HTTP/1.1\" 200 446 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-24 11:54:24"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-25 10:52:33"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-25 10:52:34"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-25 10:52:34"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-25 10:52:34"}
+{"level":"info","message":"Vehicle added: MH31XY9999 by user 68fb168f3b5106d5a2aeea49","service":"roadside-assistance","timestamp":"2025-10-25 11:01:48"}
+{"level":"info","message":"::1 - - [25/Oct/2025:05:31:49 +0000] \"POST /api/v1/users/vehicles HTTP/1.1\" 201 345 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-25 11:01:49"}
+{"level":"info","message":"::1 - - [25/Oct/2025:05:32:36 +0000] \"GET /api/v1/users/vehicles HTTP/1.1\" 200 309 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-25 11:02:36"}
+{"level":"info","message":"::1 - - [25/Oct/2025:05:33:47 +0000] \"DELETE /api/v1/users/vehicles/68fc60c4e275576b7a2b7662 HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-25 11:03:47"}
+{"level":"info","message":"::1 - - [25/Oct/2025:05:33:52 +0000] \"GET /api/v1/users/vehicles HTTP/1.1\" 200 15 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-25 11:03:52"}
+{"level":"info","message":"::1 - - [25/Oct/2025:05:36:04 +0000] \"POST /api/v1/users/vehicles HTTP/1.1\" 400 64 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-25 11:06:04"}
+{"level":"info","message":"::1 - - [25/Oct/2025:05:36:18 +0000] \"GET /api/v1/users/vehicles HTTP/1.1\" 200 15 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-25 11:06:18"}
+{"level":"info","message":"Vehicle added: MH31XY9998 by user 68fb168f3b5106d5a2aeea49","service":"roadside-assistance","timestamp":"2025-10-25 11:06:41"}
+{"level":"info","message":"::1 - - [25/Oct/2025:05:36:41 +0000] \"POST /api/v1/users/vehicles HTTP/1.1\" 201 345 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-25 11:06:41"}
+{"level":"info","message":"::1 - - [25/Oct/2025:05:36:46 +0000] \"GET /api/v1/users/vehicles HTTP/1.1\" 200 309 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-25 11:06:46"}
+{"level":"info","message":"::1 - - [25/Oct/2025:05:37:36 +0000] \"POST /api/v1/requests HTTP/1.1\" 403 177 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-25 11:07:36"}
+{"level":"info","message":"::1 - - [25/Oct/2025:05:38:26 +0000] \"POST /api/v1/payments/subscription/create HTTP/1.1\" 404 37 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-25 11:08:26"}
+{"level":"info","message":"::1 - - [25/Oct/2025:05:39:07 +0000] \"POST /api/v1/payments/subscription/create HTTP/1.1\" 404 37 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-25 11:09:07"}
+{"level":"info","message":"::1 - - [25/Oct/2025:05:40:51 +0000] \"POST /api/v1/payments/request//pay HTTP/1.1\" 404 27 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-25 11:10:51"}
+{"level":"info","message":"::1 - - [25/Oct/2025:06:29:30 +0000] \"POST /api/v1/payments/subscription/create HTTP/1.1\" 404 37 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-25 11:59:30"}
+{"level":"warn","message":"MongoDB disconnected","service":"roadside-assistance","timestamp":"2025-10-25 13:37:40"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-27 16:26:12"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-27 16:26:12"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-27 16:26:12"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-27 16:26:12"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-27 16:30:55"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-27 16:30:55"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-27 16:30:55"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-27 16:30:55"}
+{"level":"info","message":"::1 - - [27/Oct/2025:11:02:05 +0000] \"POST /api/v1/auth/user/register HTTP/1.1\" 400 56 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-27 16:32:05"}
+{"level":"info","message":"New user registered: testuser1@example.com","service":"roadside-assistance","timestamp":"2025-10-27 16:32:30"}
+{"level":"info","message":"::1 - - [27/Oct/2025:11:02:30 +0000] \"POST /api/v1/auth/user/register HTTP/1.1\" 201 369 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-27 16:32:30"}
+{"level":"info","message":"::1 - - [27/Oct/2025:11:05:31 +0000] \"POST /api/v1/auth/user/login HTTP/1.1\" 200 498 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-27 16:35:31"}
+{"level":"info","message":"::1 - - [27/Oct/2025:11:06:35 +0000] \"GET /api/v1/payments/plans HTTP/1.1\" 200 12 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-27 16:36:35"}
+{"level":"info","message":"::1 - - [27/Oct/2025:11:07:30 +0000] \"POST /api/v1/payments/subscription/create HTTP/1.1\" 503 73 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-27 16:37:30"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-27 16:40:00"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-27 16:40:00"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-27 16:40:00"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-27 16:40:00"}
+{"level":"info","message":"::1 - - [27/Oct/2025:11:10:09 +0000] \"POST /api/v1/payments/subscription/create HTTP/1.1\" 503 73 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-27 16:40:09"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-28 12:30:25"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-28 12:30:25"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-28 12:30:25"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-28 12:30:25"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-28 12:31:30"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-28 12:31:30"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-28 12:31:30"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-28 12:31:30"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-28 12:33:18"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-28 12:33:18"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-28 12:33:18"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-28 12:33:18"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-28 12:33:49"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-28 12:33:49"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-28 12:33:49"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-28 12:33:49"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-28 12:40:49"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-28 12:40:49"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-28 12:40:49"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-28 12:40:49"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-28 13:09:38"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-28 13:09:38"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-28 13:09:38"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-28 13:09:38"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-28 13:10:33"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-28 13:10:33"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-28 13:10:33"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-28 13:10:33"}
+{"level":"info","message":"::1 - - [28/Oct/2025:07:42:28 +0000] \"POST /api/v1/payments/subscription/create HTTP/1.1\" 404 37 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-28 13:12:28"}
+{"level":"info","message":"::1 - - [28/Oct/2025:07:42:50 +0000] \"GET /api/v1/payments/plans HTTP/1.1\" 200 12 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-28 13:12:50"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-28 13:14:50"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-28 13:14:50"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-28 13:14:50"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-28 13:14:50"}
+{"level":"info","message":"::1 - - [28/Oct/2025:07:45:26 +0000] \"POST /api/v1/payments/subscription/create HTTP/1.1\" 404 37 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-28 13:15:26"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-28 13:16:19"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-28 13:16:19"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-28 13:16:19"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-28 13:16:19"}
+{"level":"info","message":"::1 - - [28/Oct/2025:07:47:23 +0000] \"POST /api/v1/payments/subscription/create HTTP/1.1\" 404 37 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-28 13:17:23"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-28 13:19:51"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-28 13:19:51"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-28 13:19:51"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-28 13:19:51"}
+{"level":"info","message":"::1 - - [28/Oct/2025:07:49:56 +0000] \"POST /api/v1/payments/subscription/create HTTP/1.1\" 404 37 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-28 13:19:56"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-28 13:20:10"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-28 13:20:10"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-28 13:20:10"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-28 13:20:10"}
+{"level":"info","message":"::1 - - [28/Oct/2025:07:50:16 +0000] \"POST /api/v1/payments/subscription/create HTTP/1.1\" 404 37 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-28 13:20:16"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-28 13:20:51"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-28 13:20:51"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-28 13:20:51"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-28 13:20:51"}
+{"level":"info","message":"::1 - - [28/Oct/2025:07:50:55 +0000] \"POST /api/v1/payments/subscription/create HTTP/1.1\" 404 37 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-28 13:20:55"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-28 13:22:27"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-28 13:22:27"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-28 13:22:27"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-28 13:22:27"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-28 13:23:04"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-28 13:23:04"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-28 13:23:04"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-28 13:23:04"}
+{"level":"info","message":"::1 - - [28/Oct/2025:07:53:39 +0000] \"POST /api/v1/payments/subscription/create HTTP/1.1\" 404 37 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-28 13:23:39"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-28 13:25:56"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-28 13:25:56"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-28 13:25:56"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-28 13:25:56"}
+{"level":"info","message":"::1 - - [28/Oct/2025:07:56:02 +0000] \"POST /api/v1/payments/subscription/create HTTP/1.1\" 404 37 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-28 13:26:02"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-29 11:12:52"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-29 11:12:52"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-29 11:12:52"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-29 11:12:52"}
+{"level":"info","message":"::1 - - [29/Oct/2025:05:44:57 +0000] \"GET /api/v1/payments/plans HTTP/1.1\" 200 12 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-29 11:14:57"}
+{"level":"info","message":"Connected to MongoDB","service":"roadside-assistance","timestamp":"2025-10-29 11:17:13"}
+{"level":"info","message":"Cleared existing data","service":"roadside-assistance","timestamp":"2025-10-29 11:17:13"}
+{"_message":"Membership validation failed","errors":{"name":{"kind":"enum","message":"`free` is not a valid enum value for path `name`.","name":"ValidatorError","path":"name","properties":{"enumValues":["basic","premium"],"length":4,"message":"`free` is not a valid enum value for path `name`.","path":"name","type":"enum","value":"free"},"value":"free"}},"level":"error","message":"Seeding error: Membership validation failed: name: `free` is not a valid enum value for path `name`.","service":"roadside-assistance","stack":"ValidationError: Membership validation failed: name: `free` is not a valid enum value for path `name`.\n    at Document.invalidate (C:\\Rydon\\roadside-assistance-backend-full\\roadside-assistance-backend-full\\node_modules\\mongoose\\lib\\document.js:3362:32)\n    at C:\\Rydon\\roadside-assistance-backend-full\\roadside-assistance-backend-full\\node_modules\\mongoose\\lib\\document.js:3123:17\n    at C:\\Rydon\\roadside-assistance-backend-full\\roadside-assistance-backend-full\\node_modules\\mongoose\\lib\\schemaType.js:1417:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)","timestamp":"2025-10-29 11:17:13"}
+{"level":"info","message":"Connected to MongoDB","service":"roadside-assistance","timestamp":"2025-10-29 11:23:42"}
+{"level":"info","message":"Cleared existing data","service":"roadside-assistance","timestamp":"2025-10-29 11:23:42"}
+{"level":"info","message":"✅ Membership plans seeded","service":"roadside-assistance","timestamp":"2025-10-29 11:23:43"}
+{"level":"info","message":"✅ Users seeded","service":"roadside-assistance","timestamp":"2025-10-29 11:23:43"}
+{"level":"info","message":"✅ Workshops seeded","service":"roadside-assistance","timestamp":"2025-10-29 11:23:43"}
+{"level":"info","message":"✅ Vehicles seeded","service":"roadside-assistance","timestamp":"2025-10-29 11:23:43"}
+{"level":"info","message":"\n📊 Seed Summary:","service":"roadside-assistance","timestamp":"2025-10-29 11:23:43"}
+{"level":"info","message":"   Users: 3","service":"roadside-assistance","timestamp":"2025-10-29 11:23:43"}
+{"level":"info","message":"   Workshops: 3","service":"roadside-assistance","timestamp":"2025-10-29 11:23:43"}
+{"level":"info","message":"   Vehicles: 3","service":"roadside-assistance","timestamp":"2025-10-29 11:23:43"}
+{"level":"info","message":"   Membership Plans: 3","service":"roadside-assistance","timestamp":"2025-10-29 11:23:43"}
+{"level":"info","message":"\n🔐 Test Credentials:","service":"roadside-assistance","timestamp":"2025-10-29 11:23:43"}
+{"level":"info","message":"   User: john@example.com / password123","service":"roadside-assistance","timestamp":"2025-10-29 11:23:43"}
+{"level":"info","message":"   Workshop: express@example.com / password123","service":"roadside-assistance","timestamp":"2025-10-29 11:23:43"}
+{"level":"info","message":"   Admin: admin@example.com / password123","service":"roadside-assistance","timestamp":"2025-10-29 11:23:43"}
+{"level":"info","message":"\n✅ Database seeding completed successfully!","service":"roadside-assistance","timestamp":"2025-10-29 11:23:43"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-29 11:24:23"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-29 11:24:23"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-29 11:24:23"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-29 11:24:23"}
+{"level":"info","message":"::1 - - [29/Oct/2025:06:00:57 +0000] \"POST /api/v1/auth/workshop/login HTTP/1.1\" 401 31 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-29 11:30:57"}
+{"level":"info","message":"::1 - - [29/Oct/2025:06:02:32 +0000] \"POST /api/v1/auth/workshop/login HTTP/1.1\" 401 31 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-29 11:32:32"}
+{"level":"info","message":"::1 - - [29/Oct/2025:06:02:39 +0000] \"POST /api/v1/auth/workshop/login HTTP/1.1\" 401 31 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-29 11:32:39"}
+{"level":"info","message":"::1 - - [29/Oct/2025:06:03:04 +0000] \"POST /api/v1/auth/workshop/login HTTP/1.1\" 401 31 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-29 11:33:04"}
+{"level":"info","message":"::1 - - [29/Oct/2025:06:20:33 +0000] \"POST /api/v1/auth/workshop/login HTTP/1.1\" 401 31 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-29 11:50:33"}
+{"level":"info","message":"::1 - - [29/Oct/2025:06:25:54 +0000] \"POST /api/v1/auth/user/login HTTP/1.1\" 200 496 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-29 11:55:54"}
+{"level":"info","message":"::1 - - [29/Oct/2025:06:26:26 +0000] \"GET /api/v1/payments/plans HTTP/1.1\" 200 952 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-29 11:56:26"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-30 20:40:04"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-30 20:40:04"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-30 20:40:04"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-30 20:40:04"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:13:21 +0000] \"GET /api/v1/payments/plans HTTP/1.1\" 200 952 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 20:43:21"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:14:43 +0000] \"GET /api/v1/payments/plans HTTP/1.1\" 200 952 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 20:44:43"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:15:16 +0000] \"POST /api/v1/requests HTTP/1.1\" 401 43 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 20:45:16"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:15:36 +0000] \"GET /api/v1/users/profile HTTP/1.1\" 401 43 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 20:45:36"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:16:10 +0000] \"GET /api/v1/users/profile HTTP/1.1\" 401 43 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 20:46:10"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:22:35 +0000] \"GET /api/v1/requests/my?status=Pending&page=1&limit=10 HTTP/1.1\" 401 43 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 20:52:35"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:23:02 +0000] \"POST /api/v1/auth/user/login HTTP/1.1\" 401 31 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 20:53:02"}
+{"level":"info","message":"New user registered: testuser1@example.com","service":"roadside-assistance","timestamp":"2025-10-30 20:53:35"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:23:35 +0000] \"POST /api/v1/auth/user/register HTTP/1.1\" 201 369 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 20:53:35"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:24:45 +0000] \"POST /api/v1/auth/user/login HTTP/1.1\" 200 498 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 20:54:45"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:26:23 +0000] \"GET /api/v1/users/profile HTTP/1.1\" 401 36 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 20:56:23"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:27:08 +0000] \"GET /api/v1/users/profile HTTP/1.1\" 401 36 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 20:57:08"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:28:30 +0000] \"GET /api/v1/requests/my?status=Pending&page=1&limit=10 HTTP/1.1\" 401 36 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 20:58:30"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:29:20 +0000] \"POST /api/v1/requests HTTP/1.1\" 401 36 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 20:59:20"}
+{"level":"warn","message":"MongoDB disconnected","service":"roadside-assistance","timestamp":"2025-10-30 21:01:09"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:31:14 +0000] \"POST /api/v1/requests HTTP/1.1\" 401 43 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 21:01:14"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:31:30 +0000] \"GET /api/v1/users/vehicles HTTP/1.1\" 401 43 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 21:01:30"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-30 21:03:09"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-30 21:03:09"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-30 21:03:09"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-30 21:03:09"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:33:23 +0000] \"GET /api/v1/users/profile HTTP/1.1\" 401 43 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 21:03:23"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:33:47 +0000] \"POST /api/v1/auth/user/login HTTP/1.1\" 200 498 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 21:03:47"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:34:44 +0000] \"GET /api/v1/users/profile HTTP/1.1\" 200 393 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 21:04:44"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:34:58 +0000] \"POST /api/v1/requests HTTP/1.1\" 404 29 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 21:04:58"}
+{"level":"info","message":"Vehicle added: MH31XY9998 by user 690382f5adcf50396181df45","service":"roadside-assistance","timestamp":"2025-10-30 21:05:25"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:35:25 +0000] \"POST /api/v1/users/vehicles HTTP/1.1\" 201 345 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 21:05:25"}
+{"level":"info","message":"Found 3 matching workshops within 10km","service":"roadside-assistance","timestamp":"2025-10-30 21:05:59"}
+{"level":"info","message":"Service request created: 690385dfe53b03315469d968, notified 3 workshops","service":"roadside-assistance","timestamp":"2025-10-30 21:06:00"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:36:00 +0000] \"POST /api/v1/requests HTTP/1.1\" 201 - \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 21:06:00"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:36:22 +0000] \"GET /api/v1/users/vehicles HTTP/1.1\" 200 309 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 21:06:22"}
+{"level":"info","message":"Found 3 matching workshops within 10km","service":"roadside-assistance","timestamp":"2025-10-30 21:06:59"}
+{"level":"info","message":"Service request created: 6903861ae53b03315469d976, notified 3 workshops","service":"roadside-assistance","timestamp":"2025-10-30 21:06:59"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:36:59 +0000] \"POST /api/v1/requests HTTP/1.1\" 201 - \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 21:06:59"}
+{"level":"info","message":"Found 3 matching workshops within 10km","service":"roadside-assistance","timestamp":"2025-10-30 21:07:29"}
+{"level":"info","message":"Service request created: 69038639e53b03315469d982, notified 3 workshops","service":"roadside-assistance","timestamp":"2025-10-30 21:07:30"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:37:30 +0000] \"POST /api/v1/requests HTTP/1.1\" 201 - \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 21:07:30"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:37:57 +0000] \"GET /api/v1/users/vehicles HTTP/1.1\" 200 309 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 21:07:57"}
+{"level":"info","message":"::1 - - [30/Oct/2025:15:38:52 +0000] \"POST /api/v1/requests HTTP/1.1\" 400 142 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-30 21:08:52"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-10-31 12:07:37"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-10-31 12:07:37"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-10-31 12:07:37"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-10-31 12:07:37"}
+{"level":"info","message":"::1 - - [31/Oct/2025:06:38:38 +0000] \"POST /api/v1/requests HTTP/1.1\" 400 142 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-31 12:08:38"}
+{"level":"info","message":"Found 3 matching workshops within 10km","service":"roadside-assistance","timestamp":"2025-10-31 12:08:58"}
+{"level":"info","message":"Service request created: 69045982c49283d0adecbcae, notified 3 workshops","service":"roadside-assistance","timestamp":"2025-10-31 12:08:58"}
+{"level":"info","message":"::1 - - [31/Oct/2025:06:38:59 +0000] \"POST /api/v1/requests HTTP/1.1\" 201 - \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-31 12:08:59"}
+{"level":"info","message":"::1 - - [31/Oct/2025:06:40:18 +0000] \"GET /api/v1/requests/my?status=Pending&page=1&limit=10 HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-31 12:10:18"}
+{"level":"info","message":"New workshop registered: testworkshop@example.com","service":"roadside-assistance","timestamp":"2025-10-31 12:12:35"}
+{"level":"info","message":"::1 - - [31/Oct/2025:06:42:35 +0000] \"POST /api/v1/auth/workshop/register HTTP/1.1\" 201 543 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-31 12:12:35"}
+{"level":"info","message":"::1 - - [31/Oct/2025:06:44:15 +0000] \"GET /api/v1/payments/plans HTTP/1.1\" 200 952 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-31 12:14:15"}
+{"level":"info","message":"✅ Razorpay initialized successfully","service":"roadside-assistance","timestamp":"2025-10-31 12:15:20"}
+{"level":"info","message":"Subscription order created: order_RZzBgQcss5Uovz for Workshop 69045a5bc49283d0adecbcbd","service":"roadside-assistance","timestamp":"2025-10-31 12:15:23"}
+{"level":"info","message":"::1 - - [31/Oct/2025:06:45:23 +0000] \"POST /api/v1/payments/subscription/create HTTP/1.1\" 201 561 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-31 12:15:23"}
+{"level":"info","message":"::1 - - [31/Oct/2025:06:47:37 +0000] \"PATCH /api/v1/requests/69045982c49283d0adecbcae/assign HTTP/1.1\" 401 36 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-31 12:17:37"}
+{"level":"info","message":"::1 - - [31/Oct/2025:06:48:01 +0000] \"PATCH /api/v1/requests/69045982c49283d0adecbcae/assign HTTP/1.1\" 403 54 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-31 12:18:01"}
+{"level":"info","message":"Found 3 matching workshops within 10km","service":"roadside-assistance","timestamp":"2025-10-31 12:18:44"}
+{"level":"info","message":"Service request created: 69045bcbc49283d0adecbcca, notified 3 workshops","service":"roadside-assistance","timestamp":"2025-10-31 12:18:44"}
+{"level":"info","message":"::1 - - [31/Oct/2025:06:48:44 +0000] \"POST /api/v1/requests HTTP/1.1\" 201 - \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-31 12:18:44"}
+{"level":"info","message":"::1 - - [31/Oct/2025:06:50:02 +0000] \"PATCH /api/v1/requests/69045bcbc49283d0adecbcca/assign HTTP/1.1\" 403 54 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-10-31 12:20:02"}
+{"level":"warn","message":"MongoDB disconnected","service":"roadside-assistance","timestamp":"2025-10-31 12:53:44"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-11-01 11:18:56"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-11-01 11:18:57"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-11-01 11:18:57"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-11-01 11:18:57"}
+{"level":"info","message":"::1 - - [01/Nov/2025:05:50:52 +0000] \"GET /api/v1/requests/my?status=Pending&page=1&limit=10 HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-11-01 11:20:52"}
+{"level":"info","message":"::1 - - [01/Nov/2025:06:00:41 +0000] \"GET /api/v1/admin/stats HTTP/1.1\" 403 33 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-11-01 11:30:41"}
+{"level":"warn","message":"MongoDB disconnected","service":"roadside-assistance","timestamp":"2025-11-01 12:00:42"}
+{"level":"info","message":"✅ MongoDB connected successfully","service":"roadside-assistance","timestamp":"2025-11-01 12:03:45"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"roadside-assistance","timestamp":"2025-11-01 12:03:45"}
+{"level":"info","message":"📡 Socket.IO ready for connections","service":"roadside-assistance","timestamp":"2025-11-01 12:03:45"}
+{"level":"info","message":"🌍 Environment: development","service":"roadside-assistance","timestamp":"2025-11-01 12:03:45"}
+{"level":"info","message":"::1 - - [01/Nov/2025:06:33:48 +0000] \"POST /api/v1/auth/user/login HTTP/1.1\" 200 496 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-11-01 12:03:48"}
+{"level":"info","message":"::1 - - [01/Nov/2025:06:34:29 +0000] \"GET /api/v1/admin/stats HTTP/1.1\" 200 142 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-11-01 12:04:29"}
+{"level":"info","message":"::1 - - [01/Nov/2025:06:35:02 +0000] \"GET /api/v1/workshops/nearby?lat=21.1458&lng=79.0882&radius=10&vehicleType=4W HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-11-01 12:05:02"}
+{"level":"info","message":"::1 - - [01/Nov/2025:06:37:50 +0000] \"POST /api/v1/auth/workshop/login HTTP/1.1\" 200 547 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-11-01 12:07:50"}
+{"level":"info","message":"Request 69045bcbc49283d0adecbcca assigned to workshop 6901abe70d65f836939bd675","service":"roadside-assistance","timestamp":"2025-11-01 12:08:35"}
+{"level":"info","message":"::1 - - [01/Nov/2025:06:38:35 +0000] \"PATCH /api/v1/requests/69045bcbc49283d0adecbcca/assign HTTP/1.1\" 200 848 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-11-01 12:08:35"}
+{"level":"info","message":"::1 - - [01/Nov/2025:06:39:19 +0000] \"POST /api/v1/chat/requests/69045bcbc49283d0adecbcca/chat HTTP/1.1\" 201 229 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-11-01 12:09:19"}
+{"level":"info","message":"::1 - - [01/Nov/2025:06:40:30 +0000] \"POST /api/v1/chat/requests/69045bcbc49283d0adecbcca/chat HTTP/1.1\" 401 25 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-11-01 12:10:30"}
+{"level":"info","message":"::1 - - [01/Nov/2025:06:41:04 +0000] \"POST /api/v1/chat/requests/69045bcbc49283d0adecbcca/chat HTTP/1.1\" 201 218 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-11-01 12:11:04"}
+{"level":"info","message":"::1 - - [01/Nov/2025:06:41:46 +0000] \"GET /api/v1/chat/requests/69045bcbc49283d0adecbcca/chat HTTP/1.1\" 200 417 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-11-01 12:11:46"}
+{"level":"info","message":"AI diagnosis created: 6905abdb6924f164da7b23b8","service":"roadside-assistance","timestamp":"2025-11-01 12:12:35"}
+{"level":"info","message":"::1 - - [01/Nov/2025:06:42:35 +0000] \"POST /api/v1/ai/diagnose HTTP/1.1\" 200 352 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-11-01 12:12:35"}
+{"level":"info","message":"AI diagnosis created: 6905ac1b6924f164da7b23bb","service":"roadside-assistance","timestamp":"2025-11-01 12:13:39"}
+{"level":"info","message":"::1 - - [01/Nov/2025:06:43:39 +0000] \"POST /api/v1/ai/diagnose HTTP/1.1\" 200 251 \"-\" \"PostmanRuntime/7.39.1\"","service":"roadside-assistance","timestamp":"2025-11-01 12:13:39"}
